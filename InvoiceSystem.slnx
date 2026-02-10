@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="InvoiceSystem.Business/InvoiceSystem.Business.csproj" />
+  <Project Path="InvoiceSystem.Data/InvoiceSystem.Data.csproj" />
+  <Project Path="InvoiceSystem.DataAccess/InvoiceSystem.DataAccess.csproj" />
+  <Project Path="InvoiceSystem.WebApi/InvoiceSystem.WebApi.csproj" />
+</Solution>
